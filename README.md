@@ -1,6 +1,6 @@
 # Amirkhosro Kazemi
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/amirkhosrokazemi/))
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/amirkhosrokazemi/](https://www.linkedin.com/in/amirkhosrokazemi/))
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:your-email@example.com)
 [![Github](https://img.shields.io/github/followers/kazemiakk?label=Follow&style=social)](https://github.com/kazemiakk)
 
