@@ -10,9 +10,9 @@ Researcher and Machine Learning Engineer specializing in Physics-Informed Machin
 
 ### 🔭 What I'm Doing Now
 
-- **Developing PINNs** - Architecting Physics-Informed Neural Networks to solve complex fluid mechanics and solid mechanics problems without relying solely on massive datasets.
-- **Advanced Medical Imaging** - Building 4D Flow MRI Super-Resolution models (using GANs and CNN architectures) to drastically improve medical scan clarity and diagnostic capabilities.
-- **Particle Tracking Simulations** - Creating high-performance PyVista-based 3D simulations for arterial and stenotic phantom blood flow.
+- **Developing PINNs** - Architecting Physics-Informed Neural Networks to solve complex fluid mechanics problems without relying solely on massive datasets.
+- **Advanced Medical Imaging** - Building 4D Flow MRI Super-Resolution models to drastically improve medical scan clarity and diagnostic capabilities.
+- **Particle Tracking Simulations** - Creating high-performance  3D simulations for arterial and stenotic phantom blood flow.
 
 ### 💼 Professional Highlights
 
@@ -20,7 +20,7 @@ Researcher and Machine Learning Engineer specializing in Physics-Informed Machin
 - Developed custom algorithms for  particle tracking in 4D turbulence models.
 - Engineered Neural Networks to model Turbulent Kinetic Energy (`TKE-Net`).
 
-**Reach me:** your-email@example.com
+**Reach me:** amir.kazemi@louisville.edu
 
 ### 🧠 Skills
 
