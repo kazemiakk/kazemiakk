@@ -25,7 +25,7 @@ Researcher and Machine Learning Engineer specializing in Physics-Informed Machin
 ### 🧠 Skills
 
 - **Physics-Informed Machine Learning (PINNs)**
-- **Medical Imaging & Super-Resolution** (GANs, CNNs, ViT)
+- **Medical Imaging & Super-Resolution**  
 - **Computational Fluid Dynamics & 4D Flow MRI**
 - **3D Visualization & Particle Tracking**
 - **Deep Learning & Computer Vision**
