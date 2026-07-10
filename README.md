@@ -25,7 +25,7 @@ Researcher specializing in Physics-Informed Machine Learning, Super-Resolution i
 
 ### 🧠 Skills
 
-- **Physics-Informed Machine Learning (PINNs)**
+- **Physics-Informed Machine Learning**
 - **Medical Imaging & Super-Resolution**  
 - **Computational Fluid Dynamics & 4D Flow MRI**
 - **3D Visualization & Particle Tracking**
