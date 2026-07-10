@@ -1,6 +1,6 @@
-# Amir Kazemi
+# Amirkhosro Kazemi
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/amirkhosrokazemi/))
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:your-email@example.com)
 [![Github](https://img.shields.io/github/followers/kazemiakk?label=Follow&style=social)](https://github.com/kazemiakk)
 
@@ -16,8 +16,8 @@ Researcher and Machine Learning Engineer specializing in Physics-Informed Machin
 
 ### 💼 Professional Highlights
 
-- Built and consolidated extensive libraries for **Super-Resolution** models, adapting architectures like `SR-GAN` and `4DFlowNet` for biomedical applications.
-- Developed custom k-NN interpolation algorithms for plotting thousands of particles in 4D turbulence models (`MRSimTracks`).
+- Built and consolidated extensive libraries for **Super-Resolution** models, adapting architectures for biomedical applications.
+- Developed custom algorithms for  particle tracking in 4D turbulence models.
 - Engineered Neural Networks to model Turbulent Kinetic Energy (`TKE-Net`).
 
 **Reach me:** your-email@example.com
