@@ -7,7 +7,7 @@
 
 ## 👨‍🔬 About Me
 
-Researcher specializing in Physics-Informed Machine Learning, Super-Resolution imaging, and Computational Fluid Dynamics (CFD). I am passionate about bridging the gap between deep learning and physical sciences, specifically in medical imaging and turbulent flow modeling.
+Researcher specializing in Fluid Dynamics, Medical Imaging, and Deep learning. I work on projects on Physics-Informed Neural Networks, Super-Resolution of 4DFlow MRI and Computational Fluid Dynamics (CFD). I am passionate about bridging the gap between deep learning and physical sciences, specifically in medical imaging and turbulent flow modeling.
 
 ### 🔭 What I'm Doing Now
 
