@@ -25,7 +25,7 @@ Researcher specializing in Fluid Dynamics, Medical Imaging, and Deep learning. I
 
 ### 🧠 Skills
 
-- **Physics-Informed Machine Learning**
+- **Physics-Informed Graph Neural Networks**
 - **Medical Imaging & Super-Resolution**  
 - **Computational Fluid Dynamics & 4D Flow MRI**
 - **3D Visualization & Particle Tracking**
