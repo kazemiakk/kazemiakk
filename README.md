@@ -35,19 +35,15 @@ Researcher specializing in Fluid Dynamics, Medical Imaging, and Deep learning. I
 
 ### 🌊 Physics & Engineering Background
 
-My research is rooted in **experimental and computational fluid dynamics** — not just applying neural networks, but deeply understanding the physics they model.
+My research is rooted in **experimental and computational fluid dynamics** 
 
 #### Experimental Fluid Mechanics
-- Designed and conducted **PIV (Particle Image Velocimetry)** experiments on mangrove root models in open-channel flumes, measuring drag coefficients, turbulent kinetic energy, and Reynolds stresses across complex 3D geometries.
-- Built physical phantom models of **stenotic arteries** and **aortic arches** for validating 4D Flow MRI measurements against ground-truth CFD simulations.
-- Performed **multi-objective optimization** of bio-inspired mangrove root structures for coastal protection and wave energy harvesting.
+- Designed and conducted **PIV (Particle Image Velocimetry)
+- Built physical phantom models of **stenotic arteries** for validating 4D Flow MRI measurements against ground-truth CFD simulations.
 
 #### Computational Fluid Dynamics (CFD)
-- Extensive experience with **ANSYS Fluent**, **OpenFOAM**, and custom solvers for simulating turbulent flows (RANS, LES) in cardiovascular and environmental applications.
+- Extensive experience with **ANSYS Fluent**, and custom solvers for simulating turbulent flows (RANS, LES) in cardiovascular and environmental applications.
 - Developed and validated CFD models for **intracranial aneurysms**, **aortic coarctation**, and **venous sinus stenosis** — comparing simulation results against in-vivo 4D Flow MRI data.
-
-#### Why This Matters for AI
-> Understanding the governing equations (Navier-Stokes, continuity, energy) allows me to design **physics-informed loss functions** and **graph-based architectures** that respect conservation laws — producing models that generalize far better than purely data-driven approaches.
 
 ### 💻 Tech Stack
 
