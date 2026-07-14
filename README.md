@@ -22,7 +22,7 @@ Researcher specializing in Fluid Dynamics, Medical Imaging, and Deep learning. I
 - Built and consolidated extensive libraries for **Super-Resolution** models, adapting architectures for biomedical applications.
 - Developed custom algorithms for particle tracking in 4D turbulence models.
 - Engineered Neural Networks to model Turbulent Kinetic Energy (`TKE-Net`).
-- Designed and conducted **PIV (Particle Image Velocimetry)** experiments and built physical phantom models of **stenotic arteries** for validating 4D Flow MRI against CFD.
+- Designed and conducted **PIV (Particle Image Velocimetry)** experiments and built physical phantom models of **stenotic arteries**, **intracranial aneurysms**, and **IIH (Idiopathic Intracranial Hypertension)** for validating 4D Flow MRI against CFD.
 - Extensive experience with **ANSYS Fluent** and custom solvers for simulating turbulent flows (RANS, LES) in cardiovascular applications.
 
 **Reach me:** amir.kazemi@louisville.edu
