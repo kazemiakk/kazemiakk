@@ -4,6 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amirkhosrokazemi/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:amirkhosro.k@gmail.com)
 [![Github](https://img.shields.io/github/followers/kazemiakk?label=Follow&style=social)](https://github.com/kazemiakk)
+[![Google Scholar](https://img.shields.io/badge/-Google_Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=nxq9It8AAAAJ)
 
 ## 👨‍🔬 About Me
 
