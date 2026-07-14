@@ -35,7 +35,6 @@ Researcher specializing in Fluid Dynamics, Medical Imaging, and Deep learning. I
 
 ### 🌊 Physics & Engineering Background
 
-My research is rooted in **experimental and computational fluid dynamics** 
 
 #### Experimental Fluid Mechanics
 - Designed and conducted **PIV (Particle Image Velocimetry)
