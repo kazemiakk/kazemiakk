@@ -33,6 +33,22 @@ Researcher specializing in Fluid Dynamics, Medical Imaging, and Deep learning. I
 - **3D Visualization & Particle Tracking**
 - **Deep Learning & Computer Vision**
 
+### 🌊 Physics & Engineering Background
+
+My research is rooted in **experimental and computational fluid dynamics** — not just applying neural networks, but deeply understanding the physics they model.
+
+#### Experimental Fluid Mechanics
+- Designed and conducted **PIV (Particle Image Velocimetry)** experiments on mangrove root models in open-channel flumes, measuring drag coefficients, turbulent kinetic energy, and Reynolds stresses across complex 3D geometries.
+- Built physical phantom models of **stenotic arteries** and **aortic arches** for validating 4D Flow MRI measurements against ground-truth CFD simulations.
+- Performed **multi-objective optimization** of bio-inspired mangrove root structures for coastal protection and wave energy harvesting.
+
+#### Computational Fluid Dynamics (CFD)
+- Extensive experience with **ANSYS Fluent**, **OpenFOAM**, and custom solvers for simulating turbulent flows (RANS, LES) in cardiovascular and environmental applications.
+- Developed and validated CFD models for **intracranial aneurysms**, **aortic coarctation**, and **venous sinus stenosis** — comparing simulation results against in-vivo 4D Flow MRI data.
+
+#### Why This Matters for AI
+> Understanding the governing equations (Navier-Stokes, continuity, energy) allows me to design **physics-informed loss functions** and **graph-based architectures** that respect conservation laws — producing models that generalize far better than purely data-driven approaches.
+
 ### 💻 Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) ![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat-square&logo=PyTorch&color=353535) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat-square&logo=TensorFlow&color=353535) ![NumPy](https://img.shields.io/badge/-Numpy-05122A?style=flat-square&logo=Numpy&color=353535) ![SciPy](https://img.shields.io/badge/-SciPy-05122A?style=flat-square&logo=scipy&color=353535) ![PyVista](https://img.shields.io/badge/-PyVista-05122A?style=flat-square&color=353535) ![Git](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=Git&color=353535) ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat-square&logo=Linux&color=353535)
